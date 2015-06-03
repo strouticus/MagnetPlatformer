@@ -1,3 +1,5 @@
+//Copyright ANDREW STROUT 2015
+
 var canvas = document.getElementById('Canvas2D');
 var ctx = canvas.getContext('2d');
 
